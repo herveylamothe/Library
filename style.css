@@ -1,5 +1,5 @@
 body{
-	background-image: url(pictures/bookimg.jpg);
+	background-image: url(./pictures/bookimg.jpg);
 	background-size: cover;
 	margin:center;
 	color:white;
